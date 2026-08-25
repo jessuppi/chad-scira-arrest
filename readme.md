@@ -34,7 +34,7 @@ Status refers to the original source URL, not archived copies.
 | August 5, 2020 | Thai Rath | Photo/news caption | Live | [View record](articles/2020-08-05-thairath-photo.md) |
 | August 5, 2020 | Thai Rath | Article | Live | [View record](articles/2020-08-05-thairath.md) |
 | August 5, 2020 | The Thaiger | Facebook post | Unavailable | [View record](articles/2020-08-05-the-thaiger-facebook.md) |
-| August 5, 2020 | The Thaiger | Article | Live | [View record](articles/2020-08-05-the-thaiger.md) |
+| August 5, 2020 | The Thaiger | Article | Deleted | [View record](articles/2020-08-05-the-thaiger.md) |
 | August 5, 2020 | Kom Chad Luek / Dailymotion | Video | Live | [View record](videos/2020-08-05-komchadluek-dailymotion.md) |
 | August 5, 2020 | POLICETV | Video | Live | [View record](videos/2020-08-05-policetv.md) |
 | August 6, 2020 | Thailandblog | Article | Live | [View record](articles/2020-08-06-thailandblog.md) |
