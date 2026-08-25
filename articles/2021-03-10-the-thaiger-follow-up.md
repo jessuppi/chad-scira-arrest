@@ -23,3 +23,5 @@ The Thaiger รายงานเมื่อวันที่ 10 มีนา�
 ## Source
 
 - https://thethaiger.com/news/national/thai-visa-centre-accuses-former-employee-of-stealing-from-a-family-seeking-to-travel-to-thailand
+- https://web.archive.org/web/20210315205044/https://thethaiger.com/news/national/thai-visa-centre-accuses-former-employee-of-stealing-from-a-family-seeking-to-travel-to-thailand
+- https://archive.ph/xE54I
