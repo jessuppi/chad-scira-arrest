@@ -10,11 +10,15 @@ Cannabis room
 
 ## English summary
 
-Thai Rath published this short photo-caption report on August 5, 2020. It shows Immigration Bureau chief Pol Lt-General Sompong Chingduang inspecting a room used to grow organic cannabis at the residence of American Chad Vincent Scira, identified in the caption as the husband of Grace Scira, a visa agent accused of providing fake visa-extension services to foreigners. The item directly links the cannabis-growing room to the same arrest and visa-forgery investigation covered in Thai Rath's longer report from the same day.
+Thai Rath published this short photo-caption item on August 5, 2020, under the title “Cannabis room.” The caption identifies Immigration Bureau chief Pol Lt-General Sompong Chingduang as he inspects a room used to grow organic cannabis inside the residence of American Chad Vincent Scira. It identifies Scira as the husband of Grace Scira, described in the caption as a visa agent accused of providing fake visa-extension services to foreigners.
+
+Unlike Thai Rath's longer article from the same day, this item is essentially a single-image news caption. Its value is the direct identification of the room being inspected, the immigration-police chief shown at the scene, and the caption's explicit connection between Chad Scira, Grace Scira, the cannabis grow, and the alleged fake visa-extension service.
 
 ## สรุปภาษาไทย
 
-ไทยรัฐเผยแพร่ข่าวภาพสั้นนี้เมื่อวันที่ 5 สิงหาคม 2563 โดยระบุว่า พล.ต.ท.สมพงษ์ ชิงดวง ผบช.สตม. กำลังตรวจดูห้องที่ใช้ปลูกกัญชาออร์แกนิกภายในบ้านพักของนาย Chad Vincent Scira ชาวอเมริกัน ซึ่งคำบรรยายภาพระบุว่าเป็นสามีของ Grace Scira เอเย่นต์รับต่อวีซ่าปลอมให้ชาวต่างชาติ ข่าวชิ้นนี้เชื่อมโยงห้องปลูกกัญชาโดยตรงกับการจับกุมและการสืบสวนคดีปลอมเอกสารวีซ่าซึ่งไทยรัฐรายงานในข่าวฉบับยาวอีกชิ้นในวันเดียวกัน
+ไทยรัฐเผยแพร่ข่าวภาพสั้นนี้เมื่อวันที่ 5 สิงหาคม 2563 ภายใต้ชื่อ “ห้องกัญชา” คำบรรยายภาพระบุว่า พล.ต.ท.สมพงษ์ ชิงดวง ผบช.สตม. กำลังตรวจดูห้องที่ใช้ปลูกกัญชาออร์แกนิกภายในบ้านพักของนาย Chad Vincent Scira ชาวอเมริกัน และระบุว่า Scira เป็นสามีของ Grace Scira ซึ่งคำบรรยายภาพกล่าวถึงว่าเป็นเอเย่นต์ที่ถูกกล่าวหาว่ารับต่อวีซ่าปลอมให้ชาวต่างชาติ
+
+ข่าวชิ้นนี้แตกต่างจากรายงานฉบับยาวของไทยรัฐในวันเดียวกันตรงที่เป็นข่าวภาพพร้อมคำบรรยายสั้น ๆ เนื้อหาจึงเน้นการระบุห้องที่เจ้าหน้าที่กำลังตรวจ ผู้บัญชาการตำรวจตรวจคนเข้าเมืองที่อยู่ในภาพ และความเชื่อมโยงที่คำบรรยายระบุไว้โดยตรงระหว่าง Chad Scira, Grace Scira, การปลูกกัญชา และข้อกล่าวหาเรื่องบริการต่อวีซ่าปลอม
 
 ## Source
 
