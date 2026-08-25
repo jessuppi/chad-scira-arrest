@@ -27,3 +27,5 @@ Thailandblog ยังรายงานว่าเจ้าหน้าที�
 ## Source
 
 - https://www.thailandblog.nl/en/news-from-thailand/american-and-thai-woman-arrested-for-alleged-visa-forgery/
+- https://web.archive.org/web/20200918165739/https://www.thailandblog.nl/nieuws-uit-thailand/amerikaan-en-thaise-vrouw-gearresteerd-wegens-vermeende-visumvervalsing/
+- https://archive.ph/zIEC0
