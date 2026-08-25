@@ -19,3 +19,5 @@ Thai Rath published this short photo-caption report on August 5, 2020. It shows 
 ## Source
 
 - https://www.thairath.co.th/news/local/bangkok/1903729
+- https://web.archive.org/web/20200807154654/https://www.thairath.co.th/news/local/bangkok/1903729
+- https://archive.ph/y90AX
