@@ -27,3 +27,4 @@ Cannabis Law Report นำรายงานของ Nation Thailand เกี�
 ## Source
 
 - https://cannabislaw.report/american-thai-wife-arrested-for-alleged-visa-forging-business-growing-cannabis/
+- https://archive.ph/flOFs
