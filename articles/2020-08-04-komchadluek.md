@@ -19,3 +19,5 @@ Kom Chad Luek reported on August 4, 2020, that immigration and Bangkok police ar
 ## Source
 
 - https://www.komchadluek.net/news/439193
+- https://web.archive.org/web/20230207145711/https://www.komchadluek.net/news/439193
+- https://archive.ph/vGObT
