@@ -19,3 +19,5 @@ Nation Thailand รายงานเมื่อวันที่ 5 สิง�
 ## Source
 
 - https://www.nationthailand.com/in-focus/30392449
+- https://web.archive.org/web/20220117040438/https://www.nationthailand.com/in-focus/30392449
+- https://archive.ph/QcQMB
