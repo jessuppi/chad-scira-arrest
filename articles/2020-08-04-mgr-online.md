@@ -19,3 +19,5 @@ MGR Online รายงานเมื่อวันที่ 4 สิงหา
 ## Source
 
 https://mgronline.com/crime/detail/9630000079807
+https://archive.ph/vhmM0
+https://web.archive.org/web/20200925141144/https://mgronline.com/crime/detail/9630000079807
