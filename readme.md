@@ -6,40 +6,42 @@ Many of the original news articles and media pages covering this case have conti
 
 The records below summarize what each individual source reported. They are organized as research references rather than as a single reconstructed narrative, so details and differences between reports are retained where possible.
 
+Status refers to the original source URL, not archived copies.
+
 ## Source index
 
-| Date | Publication / source | Type | Record |
-| --- | --- | --- | --- |
-| August 4, 2020 | Khonmisi | Facebook post | [View record](articles/2020-08-04-khonmisi-facebook.md) |
-| August 4, 2020 | Kom Chad Luek | Article | [View record](articles/2020-08-04-komchadluek.md) |
-| August 4, 2020 | Matichon | Article | [View record](articles/2020-08-04-matichon.md) |
-| August 4, 2020 | MGR Online | Article | [View record](articles/2020-08-04-mgr-online.md) |
-| August 4, 2020 | Naewna | Article | [View record](articles/2020-08-04-naewna.md) |
-| August 4, 2020 | Nation TV | Article | [View record](articles/2020-08-04-nationtv.md) |
-| August 5, 2020 | ASEAN NOW / ThaiVisa | News roundup | [View record](articles/2020-08-05-asean-now.md) |
-| August 5, 2020 | Cannabis Law Report | Article / repost | [View record](articles/2020-08-05-cannabis-law-report.md) |
-| August 5, 2020 | Coconuts Bangkok | Article | [View record](articles/2020-08-05-coconuts-bangkok.md) |
-| August 5, 2020 | Daily News | Article | [View record](articles/2020-08-05-dailynews.md) |
-| August 5, 2020 | The GrowthOp | Article | [View record](articles/2020-08-05-growthop.md) |
-| August 5, 2020 | Khaosod | Article | [View record](articles/2020-08-05-khaosod.md) |
-| August 5, 2020 | Montreal Gazette | Article | [View record](articles/2020-08-05-montreal-gazette.md) |
-| August 5, 2020 | Nation Thailand | Article | [View record](articles/2020-08-05-nation-thailand.md) |
-| August 5, 2020 | National Post | Article | [View record](articles/2020-08-05-national-post.md) |
-| August 5, 2020 | Pattaya One | Article | [View record](articles/2020-08-05-pattaya-one.md) |
-| August 5, 2020 | PPTV | Article | [View record](articles/2020-08-05-pptv.md) |
-| August 5, 2020 | SootinClaimon | Article / repost | [View record](articles/2020-08-05-sootinclaimon.md) |
-| August 5, 2020 | Thai Examiner | Article | [View record](articles/2020-08-05-thai-examiner.md) |
-| August 5, 2020 | Thai Rath | Photo/news caption | [View record](articles/2020-08-05-thairath-photo.md) |
-| August 5, 2020 | Thai Rath | Article | [View record](articles/2020-08-05-thairath.md) |
-| August 5, 2020 | The Thaiger | Facebook post | [View record](articles/2020-08-05-the-thaiger-facebook.md) |
-| August 5, 2020 | The Thaiger | Article | [View record](articles/2020-08-05-the-thaiger.md) |
-| August 5, 2020 | Kom Chad Luek / Dailymotion | Video | [View record](videos/2020-08-05-komchadluek-dailymotion.md) |
-| August 5, 2020 | POLICETV | Video | [View record](videos/2020-08-05-policetv.md) |
-| August 6, 2020 | Thailandblog | Article | [View record](articles/2020-08-06-thailandblog.md) |
-| August 6, 2020 | Toute la Thaïlande | Article | [View record](articles/2020-08-06-toutelathailande.md) |
-| August 6, 2020 | Udon.info | Article | [View record](articles/2020-08-06-udon-info.md) |
-| August 8, 2020 | Naewna | Immigration-police roundup | [View record](articles/2020-08-08-naewna-roundup.md) |
-| March 10, 2021 | The Thaiger | Follow-up article | [View record](articles/2021-03-10-the-thaiger-follow-up.md) |
+| Date | Publication / source | Type | Status | Record |
+| --- | --- | --- | --- | --- |
+| August 4, 2020 | Khonmisi | Facebook post | Unavailable | [View record](articles/2020-08-04-khonmisi-facebook.md) |
+| August 4, 2020 | Kom Chad Luek | Article | Live | [View record](articles/2020-08-04-komchadluek.md) |
+| August 4, 2020 | Matichon | Article | Live | [View record](articles/2020-08-04-matichon.md) |
+| August 4, 2020 | MGR Online | Article | Live | [View record](articles/2020-08-04-mgr-online.md) |
+| August 4, 2020 | Naewna | Article | Live | [View record](articles/2020-08-04-naewna.md) |
+| August 4, 2020 | Nation TV | Article | Live | [View record](articles/2020-08-04-nationtv.md) |
+| August 5, 2020 | ASEAN NOW / ThaiVisa | News roundup | Live; linked thread deleted | [View record](articles/2020-08-05-asean-now.md) |
+| August 5, 2020 | Cannabis Law Report | Article / repost | Live | [View record](articles/2020-08-05-cannabis-law-report.md) |
+| August 5, 2020 | Coconuts Bangkok | Article | Live | [View record](articles/2020-08-05-coconuts-bangkok.md) |
+| August 5, 2020 | Daily News | Article | Deleted | [View record](articles/2020-08-05-dailynews.md) |
+| August 5, 2020 | The GrowthOp | Article | Deleted | [View record](articles/2020-08-05-growthop.md) |
+| August 5, 2020 | Khaosod | Article | Live | [View record](articles/2020-08-05-khaosod.md) |
+| August 5, 2020 | Montreal Gazette | Article | Deleted | [View record](articles/2020-08-05-montreal-gazette.md) |
+| August 5, 2020 | Nation Thailand | Article | Live | [View record](articles/2020-08-05-nation-thailand.md) |
+| August 5, 2020 | National Post | Article | Deleted | [View record](articles/2020-08-05-national-post.md) |
+| August 5, 2020 | Pattaya One | Article | Deleted | [View record](articles/2020-08-05-pattaya-one.md) |
+| August 5, 2020 | PPTV | Article | Live | [View record](articles/2020-08-05-pptv.md) |
+| August 5, 2020 | SootinClaimon | Article / repost | Live | [View record](articles/2020-08-05-sootinclaimon.md) |
+| August 5, 2020 | Thai Examiner | Article | Live | [View record](articles/2020-08-05-thai-examiner.md) |
+| August 5, 2020 | Thai Rath | Photo/news caption | Live | [View record](articles/2020-08-05-thairath-photo.md) |
+| August 5, 2020 | Thai Rath | Article | Live | [View record](articles/2020-08-05-thairath.md) |
+| August 5, 2020 | The Thaiger | Facebook post | Unavailable | [View record](articles/2020-08-05-the-thaiger-facebook.md) |
+| August 5, 2020 | The Thaiger | Article | Live | [View record](articles/2020-08-05-the-thaiger.md) |
+| August 5, 2020 | Kom Chad Luek / Dailymotion | Video | Live | [View record](videos/2020-08-05-komchadluek-dailymotion.md) |
+| August 5, 2020 | POLICETV | Video | Live | [View record](videos/2020-08-05-policetv.md) |
+| August 6, 2020 | Thailandblog | Article | Live | [View record](articles/2020-08-06-thailandblog.md) |
+| August 6, 2020 | Toute la Thaïlande | Article | Live | [View record](articles/2020-08-06-toutelathailande.md) |
+| August 6, 2020 | Udon.info | Article | Live | [View record](articles/2020-08-06-udon-info.md) |
+| August 8, 2020 | Naewna | Immigration-police roundup | Live | [View record](articles/2020-08-08-naewna-roundup.md) |
+| March 10, 2021 | The Thaiger | Follow-up article | Live | [View record](articles/2021-03-10-the-thaiger-follow-up.md) |
 
 ## Repository structure
 
