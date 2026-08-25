@@ -14,7 +14,7 @@ Thailandblog reported on August 6, 2020, that Immigration Police chief Lt-Gen So
 
 Thailandblog also reported that officers found 60 cannabis plants on the second floor, 99 grams of dried cannabis, cannabis-oil extract, a vacuum sealer, a weighing machine, and equipment described as being used to manufacture and transport cannabis. The article credited The Nation as its source.
 
-A source-specific feature of the Thailandblog version is an additional editorial note from contributor Ronny. He warned readers against using visa agencies because customers could not know what happened to their passports after handing them over, said he had advised against such services before, and suggested that people who had previously used or recommended such services might now worry that their visa stamps could be false.
+Contributor Ronny added a separate cautionary note beneath the report. He warned readers about handing passports to visa agencies because customers could not know what happened to the documents after they were turned over, said he had advised against such services before, and noted that people who had used or recommended similar services might now have reason to question whether stamps in their passports were genuine.
 
 ## สรุปภาษาไทย
 
@@ -22,7 +22,7 @@ Thailandblog รายงานเมื่อวันที่ 6 สิงห�
 
 Thailandblog ยังรายงานว่าเจ้าหน้าที่พบต้นกัญชา 60 ต้นบนชั้นสอง กัญชาแห้ง 99 กรัม สารสกัดน้ำมันกัญชา เครื่องซีลสุญญากาศ เครื่องชั่ง และอุปกรณ์ที่บทความระบุว่าใช้ในการผลิตและขนส่งกัญชา โดยบทความอ้าง The Nation เป็นแหล่งข่าว
 
-จุดที่แตกต่างของฉบับ Thailandblog คือมีหมายเหตุเพิ่มเติมจากผู้เขียนชื่อ Ronny ซึ่งเตือนผู้อ่านเกี่ยวกับการใช้บริการเอเย่นต์วีซ่า เพราะลูกค้าไม่อาจรู้ได้ว่าเกิดอะไรขึ้นกับหนังสือเดินทางหลังส่งมอบให้เอเย่นต์ เขากล่าวว่าเคยแนะนำให้หลีกเลี่ยงบริการดังกล่าวมาก่อน และเสนอว่าผู้ที่เคยใช้หรือแนะนำบริการลักษณะนี้อาจกังวลว่าตราประทับวีซ่าของตนอาจเป็นของปลอม
+ใต้รายงานดังกล่าว ผู้เขียนชื่อ Ronny ได้เพิ่มหมายเหตุเตือนผู้อ่านเกี่ยวกับการส่งหนังสือเดินทางให้เอเย่นต์วีซ่า โดยชี้ว่าลูกค้าไม่อาจรู้ได้ว่าเอกสารถูกนำไปดำเนินการอย่างไรหลังส่งมอบให้เอเย่นต์ เขาระบุว่าเคยแนะนำให้หลีกเลี่ยงบริการลักษณะนี้มาก่อน และกล่าวว่าผู้ที่เคยใช้หรือแนะนำบริการดังกล่าวอาจมีเหตุให้ตั้งคำถามว่าตราประทับในหนังสือเดินทางของตนเป็นของจริงหรือไม่
 
 ## Source
 
