@@ -12,13 +12,13 @@ Status refers to the original source URL, not archived copies.
 
 | Date | Publication / source | Type | Status | Record |
 | --- | --- | --- | --- | --- |
-| August 4, 2020 | Khonmisi | Facebook post | Unavailable | [View record](articles/2020-08-04-khonmisi-facebook.md) |
+| August 4, 2020 | Khonmisi | Facebook post | Live | [View record](articles/2020-08-04-khonmisi-facebook.md) |
 | August 4, 2020 | Kom Chad Luek | Article | Live | [View record](articles/2020-08-04-komchadluek.md) |
 | August 4, 2020 | Matichon | Article | Live | [View record](articles/2020-08-04-matichon.md) |
 | August 4, 2020 | MGR Online | Article | Live | [View record](articles/2020-08-04-mgr-online.md) |
 | August 4, 2020 | Naewna | Article | Live | [View record](articles/2020-08-04-naewna.md) |
 | August 4, 2020 | Nation TV | Article | Live | [View record](articles/2020-08-04-nationtv.md) |
-| August 5, 2020 | ASEAN NOW / ThaiVisa | News roundup | Live; linked thread deleted | [View record](articles/2020-08-05-asean-now.md) |
+| August 5, 2020 | ASEAN NOW / ThaiVisa | News roundup | Deleted | [View record](articles/2020-08-05-asean-now.md) |
 | August 5, 2020 | Cannabis Law Report | Article / repost | Live | [View record](articles/2020-08-05-cannabis-law-report.md) |
 | August 5, 2020 | Coconuts Bangkok | Article | Live | [View record](articles/2020-08-05-coconuts-bangkok.md) |
 | August 5, 2020 | Daily News | Article | Deleted | [View record](articles/2020-08-05-dailynews.md) |
@@ -26,7 +26,7 @@ Status refers to the original source URL, not archived copies.
 | August 5, 2020 | Khaosod | Article | Live | [View record](articles/2020-08-05-khaosod.md) |
 | August 5, 2020 | Montreal Gazette | Article | Deleted | [View record](articles/2020-08-05-montreal-gazette.md) |
 | August 5, 2020 | Nation Thailand | Article | Live | [View record](articles/2020-08-05-nation-thailand.md) |
-| August 5, 2020 | National Post | Article | Deleted | [View record](articles/2020-08-05-national-post.md) |
+| August 5, 2020 | National Post | Article | Live | [View record](articles/2020-08-05-national-post.md) |
 | August 5, 2020 | Pattaya One | Article | Deleted | [View record](articles/2020-08-05-pattaya-one.md) |
 | August 5, 2020 | PPTV | Article | Live | [View record](articles/2020-08-05-pptv.md) |
 | August 5, 2020 | SootinClaimon | Article / repost | Live | [View record](articles/2020-08-05-sootinclaimon.md) |
