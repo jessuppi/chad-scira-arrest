@@ -10,11 +10,15 @@ Bangkok immigration chief confirms arrest of 31-year-old American in visa-forger
 
 ## English summary
 
-The Thaiger published this Facebook post in connection with its August 2020 reporting on the arrest of American Chad Vincent Scira, 31, and his Thai wife Grace Scira, 34. The post introduced the report by stating that Bangkok's chief of immigration police had confirmed Scira's arrest. Surviving traces of The Thaiger's associated report identify the case as the same investigation in which immigration police alleged that the couple operated Thai Visa Centre, offered forged visa services to foreigners, and used a house in Soi Seri Thai 73 in Bangkok's Khan Na Yao district. The Thaiger's report also stated that officers found forged documents and 55 rubber stamps bearing the seals of Thai government departments, along with cannabis being grown at the residence.
+The Thaiger published this Facebook post on August 5, 2020, alongside its reporting on the arrest of Chad Vincent Scira, 31, and his Thai wife Grace Scira, 34. The identifying text preserved with the post states that Bangkok's immigration-police chief had confirmed the arrest of the 31-year-old American and directs readers into The Thaiger's coverage of the visa-forgery and cannabis case.
+
+The Facebook page itself is no longer reliably readable through the available web view, so this record keeps the summary limited to the identifying text preserved with the post and its direct connection to The Thaiger's August 5 report. Detailed allegations and seized-item inventories are documented separately in the full Thaiger article record rather than being reconstructed here from other publications.
 
 ## สรุปภาษาไทย
 
-The Thaiger เผยแพร่โพสต์นี้บน Facebook ซึ่งเชื่อมโยงกับการรายงานข่าวในเดือนสิงหาคม 2563 เกี่ยวกับการจับกุมนาย Chad Vincent Scira ชาวอเมริกันอายุ 31 ปี และ Grace Scira ภรรยาชาวไทยอายุ 34 ปี โดยโพสต์ระบุในเบื้องต้นว่า ผู้บัญชาการตำรวจตรวจคนเข้าเมืองในกรุงเทพฯ ยืนยันการจับกุม Scira ร่องรอยที่ยังหลงเหลือของข่าว The Thaiger ที่เกี่ยวข้องระบุว่าเป็นคดีเดียวกับการสืบสวนที่ตำรวจตรวจคนเข้าเมืองกล่าวหาว่าทั้งคู่ดำเนินกิจการ Thai Visa Centre ให้บริการวีซ่าปลอมแก่ชาวต่างชาติ และใช้บ้านในซอยเสรีไทย 73 เขตคันนายาว กรุงเทพฯ เป็นสถานที่ดำเนินการ รายงานของ The Thaiger ยังระบุว่าเจ้าหน้าที่พบเอกสารปลอมและตรายาง 55 ชิ้นที่มีตราของหน่วยงานราชการไทย รวมถึงการปลูกกัญชาภายในบ้านพัก
+The Thaiger เผยแพร่โพสต์นี้บน Facebook เมื่อวันที่ 5 สิงหาคม 2563 ควบคู่กับการรายงานข่าวการจับกุม Chad Vincent Scira อายุ 31 ปี และ Grace Scira ภรรยาชาวไทย อายุ 34 ปี ข้อความที่ยังคงระบุตัวโพสต์ได้กล่าวว่า ผู้บัญชาการตำรวจตรวจคนเข้าเมืองในกรุงเทพฯ ยืนยันการจับกุมชายชาวอเมริกันวัย 31 ปี และนำผู้อ่านไปยังข่าวของ The Thaiger เกี่ยวกับคดีปลอมวีซ่าและกัญชา
+
+ปัจจุบันหน้า Facebook ดังกล่าวไม่สามารถอ่านข้อความทั้งหมดได้อย่างสม่ำเสมอผ่านมุมมองเว็บที่มีอยู่ บันทึกนี้จึงจำกัดบทสรุปไว้เฉพาะข้อความระบุตัวโพสต์และความเชื่อมโยงโดยตรงกับรายงานของ The Thaiger วันที่ 5 สิงหาคม ส่วนข้อกล่าวหาและรายการของกลางโดยละเอียดถูกบันทึกไว้แยกต่างหากในระเบียนข่าวฉบับเต็มของ The Thaiger แทนการนำรายละเอียดจากสื่ออื่นมาประกอบขึ้นใหม่ในที่นี้
 
 ## Source
 
