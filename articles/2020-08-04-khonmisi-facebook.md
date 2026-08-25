@@ -19,3 +19,4 @@ Khonmisi published this Facebook post on August 4, 2020, reporting on an immigra
 ## Source
 
 - https://www.facebook.com/Khonmisi/posts/117454560058302/
+- https://archive.ph/0uDx3
