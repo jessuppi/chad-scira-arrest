@@ -18,10 +18,10 @@ Status refers to the original source URL, not archived copies.
 | August 4, 2020 | MGR Online | Article | Thai | Live | [View record](articles/2020-08-04-mgr-online.md) |
 | August 4, 2020 | Naewna | Article | Thai | Live | [View record](articles/2020-08-04-naewna.md) |
 | August 4, 2020 | Nation TV | Article | Thai | Live | [View record](articles/2020-08-04-nationtv.md) |
-| August 5, 2020 | ASEAN NOW / ThaiVisa | Forum thread | English | Deleted; circumstances unclear | [View record](articles/2020-08-05-asean-now.md) |
+| August 5, 2020 | ASEAN NOW / ThaiVisa | Forum thread | English | Deleted; alleged bribery/pressure | [View record](articles/2020-08-05-asean-now.md) |
 | August 5, 2020 | Cannabis Law Report | Article / repost | English | Live | [View record](articles/2020-08-05-cannabis-law-report.md) |
 | August 5, 2020 | Coconuts Bangkok | Article | English | Live | [View record](articles/2020-08-05-coconuts-bangkok.md) |
-| August 5, 2020 | Daily News | Article | Thai | Deleted; circumstances unclear | [View record](articles/2020-08-05-dailynews.md) |
+| August 5, 2020 | Daily News | Article | Thai | Deleted; alleged bribery/pressure | [View record](articles/2020-08-05-dailynews.md) |
 | August 5, 2020 | The GrowthOp | Article | English | Deleted; circumstances unclear | [View record](articles/2020-08-05-growthop.md) |
 | August 5, 2020 | Khaosod | Article | Thai | Live | [View record](articles/2020-08-05-khaosod.md) |
 | August 5, 2020 | Montreal Gazette | Article | English | Deleted; circumstances unclear | [View record](articles/2020-08-05-montreal-gazette.md) |
@@ -34,7 +34,7 @@ Status refers to the original source URL, not archived copies.
 | August 5, 2020 | Thai Rath | Photo/news caption | Thai | Live | [View record](articles/2020-08-05-thairath-photo.md) |
 | August 5, 2020 | Thai Rath | Article | Thai | Live | [View record](articles/2020-08-05-thairath.md) |
 | August 5, 2020 | The Thaiger | Facebook post | English | Live | [View record](articles/2020-08-05-the-thaiger-facebook.md) |
-| August 5, 2020 | The Thaiger | Article | English | Deleted; circumstances unclear | [View record](articles/2020-08-05-the-thaiger.md) |
+| August 5, 2020 | The Thaiger | Article | English | Deleted; alleged bribery/pressure | [View record](articles/2020-08-05-the-thaiger.md) |
 | August 5, 2020 | Kom Chad Luek / Dailymotion | Video | Thai | Live | [View record](videos/2020-08-05-komchadluek-dailymotion.md) |
 | August 5, 2020 | POLICETV | Video | Thai | Live | [View record](videos/2020-08-05-policetv.md) |
 | August 6, 2020 | Thailandblog | Article | Dutch | Live | [View record](articles/2020-08-06-thailandblog.md) |
