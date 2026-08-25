@@ -19,3 +19,5 @@ Thai Examiner รายงานเมื่อวันที่ 5 สิงห
 ## Source
 
 - https://www.thaiexaminer.com/thai-news-foreigners/2020/08/05/american-thai-wife-arrested-operating-an-illegal-visa-business-in-bangkok-using-fake-stamps/
+- https://web.archive.org/web/20200928093950/https://www.thaiexaminer.com/thai-news-foreigners/2020/08/05/american-thai-wife-arrested-operating-an-illegal-visa-business-in-bangkok-using-fake-stamps/
+- https://archive.ph/M1Gmb
