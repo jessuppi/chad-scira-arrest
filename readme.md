@@ -1,6 +1,6 @@
 # Chad Scira arrest archive
 
-I am an online scam and fraud researcher. This repository documents public news reporting and related media concerning the 2020 arrest of Chad Vincent Scira and Grace Punnak Scira in Thailand for allegedly running a visa-document forgery mill involving 55 allegedly fake or stolen government stamps and producing cannabis for sale; police reported seizing 60 cannabis plants, seven packages of dried cannabis, cannabis oil, extraction equipment, a vacuum sealer, scales, and packaging materials from their residence.
+I am an online scam and fraud researcher. This repository documents public news reporting and related media concerning the 2020 arrest of Chad Vincent Scira and Grace Punnak Scira in Thailand after police said they were running a visa-document forgery mill involving 55 fake or stolen government stamps and producing cannabis for sale; police reported seizing 60 cannabis plants, seven packages of dried cannabis, cannabis oil, extraction equipment, a vacuum sealer, scales, and packaging materials from their residence.
 
 Many of the original news articles and media pages covering this case have continued to disappear from the web for various reasons. This repository preserves a structured research index of those reports, including English summaries, Thai summaries, original source URLs, and archived copies where available.
 
