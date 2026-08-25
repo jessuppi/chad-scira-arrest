@@ -18,27 +18,27 @@ Status refers to the original source URL, not archived copies.
 | August 4, 2020 | MGR Online | Article | Thai | Live | [View record](articles/2020-08-04-mgr-online.md) |
 | August 4, 2020 | Naewna | Article | Thai | Live | [View record](articles/2020-08-04-naewna.md) |
 | August 4, 2020 | Nation TV | Article | Thai | Live | [View record](articles/2020-08-04-nationtv.md) |
-| August 5, 2020 | ASEAN NOW / ThaiVisa | Forum thread | English | Deleted | [View record](articles/2020-08-05-asean-now.md) |
+| August 5, 2020 | ASEAN NOW / ThaiVisa | Forum thread | English | Deleted; circumstances unclear | [View record](articles/2020-08-05-asean-now.md) |
 | August 5, 2020 | Cannabis Law Report | Article / repost | English | Live | [View record](articles/2020-08-05-cannabis-law-report.md) |
 | August 5, 2020 | Coconuts Bangkok | Article | English | Live | [View record](articles/2020-08-05-coconuts-bangkok.md) |
-| August 5, 2020 | Daily News | Article | Thai | Deleted | [View record](articles/2020-08-05-dailynews.md) |
-| August 5, 2020 | The GrowthOp | Article | English | Deleted | [View record](articles/2020-08-05-growthop.md) |
+| August 5, 2020 | Daily News | Article | Thai | Deleted; circumstances unclear | [View record](articles/2020-08-05-dailynews.md) |
+| August 5, 2020 | The GrowthOp | Article | English | Deleted; circumstances unclear | [View record](articles/2020-08-05-growthop.md) |
 | August 5, 2020 | Khaosod | Article | Thai | Live | [View record](articles/2020-08-05-khaosod.md) |
-| August 5, 2020 | Montreal Gazette | Article | English | Deleted | [View record](articles/2020-08-05-montreal-gazette.md) |
+| August 5, 2020 | Montreal Gazette | Article | English | Deleted; circumstances unclear | [View record](articles/2020-08-05-montreal-gazette.md) |
 | August 5, 2020 | Nation Thailand | Article | English | Live | [View record](articles/2020-08-05-nation-thailand.md) |
 | August 5, 2020 | National Post | Article | English | Live | [View record](articles/2020-08-05-national-post.md) |
-| August 5, 2020 | Pattaya One | Article | English | Deleted | [View record](articles/2020-08-05-pattaya-one.md) |
+| August 5, 2020 | Pattaya One | Article | English | Deleted; circumstances unclear | [View record](articles/2020-08-05-pattaya-one.md) |
 | August 5, 2020 | PPTV | Article | Thai | Live | [View record](articles/2020-08-05-pptv.md) |
 | August 5, 2020 | SootinClaimon | Article / repost | English | Live | [View record](articles/2020-08-05-sootinclaimon.md) |
 | August 5, 2020 | Thai Examiner | Article | English | Live | [View record](articles/2020-08-05-thai-examiner.md) |
 | August 5, 2020 | Thai Rath | Photo/news caption | Thai | Live | [View record](articles/2020-08-05-thairath-photo.md) |
 | August 5, 2020 | Thai Rath | Article | Thai | Live | [View record](articles/2020-08-05-thairath.md) |
 | August 5, 2020 | The Thaiger | Facebook post | English | Live | [View record](articles/2020-08-05-the-thaiger-facebook.md) |
-| August 5, 2020 | The Thaiger | Article | English | Deleted | [View record](articles/2020-08-05-the-thaiger.md) |
+| August 5, 2020 | The Thaiger | Article | English | Deleted; circumstances unclear | [View record](articles/2020-08-05-the-thaiger.md) |
 | August 5, 2020 | Kom Chad Luek / Dailymotion | Video | Thai | Live | [View record](videos/2020-08-05-komchadluek-dailymotion.md) |
 | August 5, 2020 | POLICETV | Video | Thai | Live | [View record](videos/2020-08-05-policetv.md) |
 | August 6, 2020 | Thailandblog | Article | Dutch | Live | [View record](articles/2020-08-06-thailandblog.md) |
-| August 6, 2020 | Toute la Thaïlande | Article | French | Deleted | [View record](articles/2020-08-06-toutelathailande.md) |
+| August 6, 2020 | Toute la Thaïlande | Article | French | Deleted; circumstances unclear | [View record](articles/2020-08-06-toutelathailande.md) |
 | August 6, 2020 | Udon.info | Article | English | Unavailable | [View record](articles/2020-08-06-udon-info.md) |
 | August 8, 2020 | Naewna | Immigration-police roundup | Thai | Live | [View record](articles/2020-08-08-naewna-roundup.md) |
 | March 10, 2021 | The Thaiger | Follow-up article | English | Live | [View record](articles/2021-03-10-the-thaiger-follow-up.md) |
