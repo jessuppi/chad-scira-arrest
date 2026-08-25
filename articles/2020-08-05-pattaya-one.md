@@ -23,3 +23,5 @@ Pattaya One รายงานเมื่อวันที่ 5 สิงห�
 ## Source
 
 - https://pattayaone.news/thai-wife-and-an-american-man-arrested-for-alleged-visa-forging-business-growing-cannabis/
+- https://web.archive.org/web/20200928024531/https://pattayaone.news/thai-wife-and-an-american-man-arrested-for-alleged-visa-forging-business-growing-cannabis/
+- https://archive.ph/K2c9D
