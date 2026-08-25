@@ -1,4 +1,4 @@
-# Nation Thailand / Dailymotion — August 5, 2020
+# Kom Chad Luek / Dailymotion — August 5, 2020
 
 ## English title
 
@@ -10,11 +10,19 @@ American and Thai wife arrested for alleged visa-forging business and growing ca
 
 ## English summary
 
-The Nation published this Dailymotion video with its August 5, 2020 report on the arrest of Chad Vincent Scira, 31, and his Thai wife Grace Scira, 34. Immigration police chief Pol Lt-General Sompong Chingduang said investigators traced an alleged visa-forging operation connected to Thai Visa Centre to the couple's residence in Soi Seri Thai 73, Khan Na Yao, Bangkok. Police reported finding forged documents and 55 rubber stamps bearing the insignia of Thai government departments. On the second floor, officers also reported finding 60 organically grown cannabis plants, 99 grams of dried cannabis, a cannabis-oil extractor, a vacuum sealer, a weighing device, and cannabis-use equipment. The couple said the cannabis was for personal use, while police said the evidence suggested production for sale and charged them with manufacturing a narcotic substance. Investigators also said they would examine the couple's financial trail.
+Kom Chad Luek published this Dailymotion video in connection with its coverage of the August 2020 arrests. The Dailymotion page identifies the uploader as คมชัดลึก and links back to Kom Chad Luek's report on the case, rather than to Nation Thailand.
+
+Kom Chad Luek's accompanying report said immigration and Bangkok police arrested a 34-year-old Thai woman and her 31-year-old American husband, Chad Vincent Scira, after investigating Thai Visa Center and alleged forged visa-extension documents for foreign customers. Police reported finding 55 government-related rubber stamps and assorted forged documents at the residence, along with 60 cannabis plants, seven packages of dried cannabis weighing 99 grams including the bags, cannabis oil, an oil extractor, a vacuum sealer, a scale, cannabis-use equipment, and plastic packaging.
+
+The report connected with the video said the woman admitted making visas and forged documents, while Scira said he grew the cannabis for personal use. Police said the evidence suggested cultivation for sale, charged both with jointly producing a Category 5 narcotic, cannabis, for sale, and said investigators would examine their financial trail.
 
 ## สรุปภาษาไทย
 
-The Nation เผยแพร่วิดีโอนี้ผ่าน Dailymotion ประกอบรายงานเมื่อวันที่ 5 สิงหาคม 2563 เกี่ยวกับการจับกุมนาย Chad Vincent Scira อายุ 31 ปี และ Grace Scira ภรรยาชาวไทยอายุ 34 ปี พล.ต.ท.สมพงษ์ ชิงดวง ผู้บัญชาการสำนักงานตรวจคนเข้าเมือง ระบุว่าการสืบสวนติดตามธุรกิจที่ถูกกล่าวหาว่ารับทำวีซ่าปลอมซึ่งเชื่อมโยงกับ Thai Visa Centre ไปยังบ้านพักของทั้งคู่ในซอยเสรีไทย 73 เขตคันนายาว กรุงเทพมหานคร ตำรวจรายงานว่าพบเอกสารปลอมและตรายางตราสัญลักษณ์ของหน่วยงานราชการไทย 55 ชิ้น บริเวณชั้นสอง เจ้าหน้าที่ยังรายงานว่าพบต้นกัญชาออร์แกนิก 60 ต้น กัญชาแห้ง 99 กรัม เครื่องสกัดน้ำมันกัญชา เครื่องซีลสุญญากาศ เครื่องชั่ง และอุปกรณ์สำหรับใช้กัญชา ทั้งคู่ระบุว่าปลูกกัญชาไว้ใช้เอง ขณะที่ตำรวจกล่าวว่าหลักฐานบ่งชี้ว่าเป็นการผลิตเพื่อจำหน่าย และแจ้งข้อหาผลิตยาเสพติด นอกจากนี้เจ้าหน้าที่ยังระบุว่าจะตรวจสอบเส้นทางการเงินของทั้งคู่ต่อไป
+คมชัดลึกเผยแพร่วิดีโอนี้ผ่าน Dailymotion ประกอบการรายงานข่าวการจับกุมในเดือนสิงหาคม 2563 โดยหน้า Dailymotion ระบุผู้อัปโหลดว่า “คมชัดลึก” และเชื่อมโยงกลับไปยังข่าวของคมชัดลึกเกี่ยวกับคดีนี้ ไม่ใช่ Nation Thailand
+
+ข่าวประกอบของคมชัดลึกระบุว่าตำรวจตรวจคนเข้าเมืองและตำรวจนครบาลจับกุมหญิงไทยอายุ 34 ปี พร้อมนาย Chad Vincent Scira สามีชาวอเมริกันอายุ 31 ปี หลังสืบสวน Thai Visa Center และข้อกล่าวหาเรื่องเอกสารต่อวีซ่าปลอมสำหรับลูกค้าชาวต่างชาติ ตำรวจรายงานว่าพบตรายางที่เกี่ยวข้องกับหน่วยงานราชการ 55 ชิ้นและเอกสารปลอมต่าง ๆ ภายในบ้านพัก พร้อมต้นกัญชา 60 ต้น กัญชาแห้ง 7 ห่อ น้ำหนักรวมถุง 99 กรัม น้ำมันกัญชา เครื่องสกัดน้ำมัน เครื่องซีลสุญญากาศ เครื่องชั่ง อุปกรณ์เสพกัญชา และถุงพลาสติกสำหรับบรรจุ
+
+รายงานที่เชื่อมโยงกับวิดีโอระบุว่าหญิงไทยรับว่าทำวีซ่าและเอกสารปลอมจริง ส่วน Scira ระบุว่าปลูกกัญชาไว้เพื่อเสพเอง ขณะที่ตำรวจกล่าวว่าหลักฐานบ่งชี้ว่าเป็นการปลูกเพื่อจำหน่าย จึงแจ้งข้อหาทั้งสองในฐานร่วมกันผลิตยาเสพติดให้โทษประเภท 5 คือกัญชา เพื่อจำหน่าย และระบุว่าจะตรวจสอบเส้นทางการเงินเพิ่มเติม
 
 ## Source
 
