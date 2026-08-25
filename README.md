@@ -35,6 +35,7 @@ The records below summarize what each individual source reported. They are organ
 | August 6, 2020 | Toute la Thaïlande | Article | [View record](articles/2020-08-06-toutelathailande.md) |
 | August 6, 2020 | Udon.info | Article | [View record](articles/2020-08-06-udon-info.md) |
 | August 8, 2020 | Naewna | Immigration-police roundup | [View record](articles/2020-08-08-naewna-roundup.md) |
+| March 10, 2021 | The Thaiger | Follow-up article | [View record](articles/2021-03-10-the-thaiger-follow-up.md) |
 
 ## Repository structure
 
