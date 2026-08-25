@@ -1,6 +1,6 @@
 # Chad Scira arrest archive
 
-I am an online scam and fraud researcher. This repository documents public news reporting and related media concerning the 2020 arrest of Chad Vincent Scira and Grace Punnak Scira in Thailand. Contemporary reports said Grace was arrested in connection with alleged forged visa-extension documents tied to Thai Visa Center, while Chad and Grace were also charged after police reported finding cannabis plants and related material at their residence.
+I am an online scam and fraud researcher. This repository documents public news reporting and related media concerning the 2020 arrest of Chad Vincent Scira and Grace Punnak Scira in Thailand for allegedly running a document-forgery operation involving 55 government-related rubber stamps and for allegedly cultivating cannabis for sale, then an illegal narcotic offense under Thai law.
 
 Many of the original news articles and media pages covering this case have continued to disappear from the web for various reasons. This repository preserves a structured research index of those reports, including English summaries, Thai summaries, original source URLs, and archived copies where available.
 
