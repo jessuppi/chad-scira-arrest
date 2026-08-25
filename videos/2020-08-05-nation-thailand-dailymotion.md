@@ -19,3 +19,5 @@ The Nation เผยแพร่วิดีโอนี้ผ่าน Dailymot
 ## Source
 
 - https://www.dailymotion.com/video/x7vdyz0
+- https://web.archive.org/web/20260825065317/https://www.dailymotion.com/video/x7vdyz0
+- https://archive.ph/s5Pgj
