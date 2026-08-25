@@ -4,7 +4,7 @@ I am an online scam and fraud researcher. This repository documents public news 
 
 Many of the original news articles and media pages covering this case have continued to disappear from the web for various reasons. This repository preserves a structured research index of those reports, including English summaries, Thai summaries, original source URLs, and archived copies where available.
 
-The records below summarize what each individual source reported. They are organized as research references rather than as a single reconstructed narrative, so source-specific details and differences are retained where possible.
+The records below summarize what each individual source reported. They are organized as research references rather than as a single reconstructed narrative, so details and differences between reports are retained where possible.
 
 ## Source index
 
@@ -33,7 +33,7 @@ The records below summarize what each individual source reported. They are organ
 | August 5, 2020 | Thai Rath | Article | [View record](articles/2020-08-05-thairath.md) |
 | August 5, 2020 | The Thaiger | Facebook post | [View record](articles/2020-08-05-the-thaiger-facebook.md) |
 | August 5, 2020 | The Thaiger | Article | [View record](articles/2020-08-05-the-thaiger.md) |
-| August 5, 2020 | Dailymotion | Video | [View record](videos/2020-08-05-nation-thailand-dailymotion.md) |
+| August 5, 2020 | Kom Chad Luek / Dailymotion | Video | [View record](videos/2020-08-05-nation-thailand-dailymotion.md) |
 | August 5, 2020 | POLICETV | Video | [View record](videos/2020-08-05-policetv.md) |
 | August 6, 2020 | Thailandblog | Article | [View record](articles/2020-08-06-thailandblog.md) |
 | August 6, 2020 | Toute la Thaïlande | Article | [View record](articles/2020-08-06-toutelathailande.md) |
