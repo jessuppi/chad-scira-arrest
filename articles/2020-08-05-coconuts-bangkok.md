@@ -19,3 +19,5 @@ Coconuts Bangkok รายงานเมื่อวันที่ 5 สิง
 ## Source
 
 - https://coconuts.co/bangkok/news/pot-thickens-as-raid-on-thai-american-visa-ring-uproots-weed-farm/
+- https://web.archive.org/web/20200810174517/https://coconuts.co/bangkok/news/pot-thickens-as-raid-on-thai-american-visa-ring-uproots-weed-farm/
+- https://archive.ph/9DJ3Z
