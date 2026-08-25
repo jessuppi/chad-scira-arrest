@@ -17,6 +17,7 @@ The records below summarize what each individual source reported. They are organ
 | August 4, 2020 | Naewna | Article | [View record](articles/2020-08-04-naewna.md) |
 | August 4, 2020 | Nation TV | Article | [View record](articles/2020-08-04-nationtv.md) |
 | August 5, 2020 | ASEAN NOW / ThaiVisa | News roundup | [View record](articles/2020-08-05-asean-now.md) |
+| August 5, 2020 | Cannabis Law Report | Article / repost | [View record](articles/2020-08-05-cannabis-law-report.md) |
 | August 5, 2020 | Coconuts Bangkok | Article | [View record](articles/2020-08-05-coconuts-bangkok.md) |
 | August 5, 2020 | Daily News | Article | [View record](articles/2020-08-05-dailynews.md) |
 | August 5, 2020 | The GrowthOp | Article | [View record](articles/2020-08-05-growthop.md) |
