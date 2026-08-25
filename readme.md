@@ -27,7 +27,7 @@ Status refers to the original source URL, not archived copies.
 | August 5, 2020 | Montreal Gazette | Article | English | Deleted; circumstances unclear | [View record](articles/2020-08-05-montreal-gazette.md) |
 | August 5, 2020 | Nation Thailand | Article | English | Live | [View record](articles/2020-08-05-nation-thailand.md) |
 | August 5, 2020 | National Post | Article | English | Live | [View record](articles/2020-08-05-national-post.md) |
-| August 5, 2020 | Pattaya One | Article | English | Deleted; circumstances unclear | [View record](articles/2020-08-05-pattaya-one.md) |
+| August 5, 2020 | Pattaya One | Article | English | Deleted; alleged bribery/pressure | [View record](articles/2020-08-05-pattaya-one.md) |
 | August 5, 2020 | PPTV | Article | Thai | Live | [View record](articles/2020-08-05-pptv.md) |
 | August 5, 2020 | SootinClaimon | Article / repost | English | Live | [View record](articles/2020-08-05-sootinclaimon.md) |
 | August 5, 2020 | Thai Examiner | Article | English | Live | [View record](articles/2020-08-05-thai-examiner.md) |
