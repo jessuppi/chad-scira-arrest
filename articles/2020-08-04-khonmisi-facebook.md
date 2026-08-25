@@ -10,11 +10,15 @@ Immigration police search visa-extension agent's home and find major organic can
 
 ## English summary
 
-Khonmisi published this Facebook post on August 4, 2020, reporting on an immigration-police search connected to a visa-extension agent. The post described officers finding a large organic cannabis-growing operation at the residence, including 60 cannabis plants. The location and details correspond to the same Soi Seri Thai 73 police operation reported by Thai news outlets in connection with the visa-document investigation involving Chad Vincent Scira and his Thai wife.
+Khonmisi published this Facebook post on August 4, 2020, reporting that immigration police searched the home of a visa-extension agent and found what the page described as a major organic cannabis-growing operation. The post specifically reported 60 cannabis plants at the residence and framed the discovery as part of the police search connected to the visa-extension business.
+
+The Facebook item is much shorter than the full newspaper reports published around the same time. Its surviving text focuses on the search and the cannabis grow rather than giving a detailed inventory of seized evidence or a full account of the document case, so this record does not add names or procedural details that are not stated in the post itself.
 
 ## สรุปภาษาไทย
 
-เพจ Khonmisi เผยแพร่โพสต์บน Facebook เมื่อวันที่ 4 สิงหาคม 2563 รายงานการเข้าตรวจค้นของตำรวจตรวจคนเข้าเมืองซึ่งเกี่ยวข้องกับเอเย่นต์รับดำเนินการต่อวีซ่า โดยระบุว่าเจ้าหน้าที่พบการปลูกกัญชาออร์แกนิกจำนวนมากภายในบ้านพัก รวมถึงต้นกัญชา 60 ต้น สถานที่และรายละเอียดในโพสต์ตรงกับปฏิบัติการของตำรวจในซอยเสรีไทย 73 ซึ่งสื่อไทยหลายแห่งรายงานในคดีตรวจสอบเอกสารวีซ่าที่เกี่ยวข้องกับ Chad Vincent Scira และภรรยาชาวไทย
+เพจ Khonmisi เผยแพร่โพสต์บน Facebook เมื่อวันที่ 4 สิงหาคม 2563 รายงานว่าตำรวจตรวจคนเข้าเมืองเข้าตรวจค้นบ้านของเอเย่นต์รับดำเนินการต่อวีซ่า และพบสิ่งที่เพจระบุว่าเป็นการปลูกกัญชาออร์แกนิกขนาดใหญ่ โดยโพสต์ระบุชัดว่าพบต้นกัญชา 60 ต้นภายในบ้านพัก และนำเสนอการค้นพบดังกล่าวว่าเกิดขึ้นระหว่างการตรวจค้นที่เกี่ยวข้องกับธุรกิจรับต่อวีซ่า
+
+โพสต์ Facebook ชิ้นนี้สั้นกว่ารายงานข่าวฉบับเต็มที่เผยแพร่ในช่วงเวลาเดียวกันมาก เนื้อหาที่ยังคงอยู่มุ่งเน้นไปที่การตรวจค้นและการพบการปลูกกัญชา ไม่ได้แจกแจงของกลางทั้งหมดหรือรายละเอียดกระบวนการของคดีเอกสาร ดังนั้นบันทึกนี้จึงไม่เพิ่มชื่อบุคคลหรือรายละเอียดคดีที่ไม่ได้ระบุไว้ในตัวโพสต์
 
 ## Source
 
