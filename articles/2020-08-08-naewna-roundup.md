@@ -19,3 +19,5 @@ Naewna reported on August 8, 2020, in a roundup of immigration-police arrests. I
 ## Source
 
 - https://www.naewna.com/local/510365
+- https://web.archive.org/web/20260825073438/https://www.naewna.com/local/510365
+- https://archive.ph/x863m
