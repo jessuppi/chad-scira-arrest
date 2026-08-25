@@ -14,7 +14,7 @@ National Post published this cannabis-news report on August 5, 2020, about the a
 
 Officers also reported finding 60 cannabis plants, a cannabis-oil extractor, a vacuum sealer, a scale, and 99 grams of dried cannabis. Chad and Grace Scira said the cannabis was for personal use, while police charged them with manufacturing a narcotic substance. The National Post article cited Nation Thailand for the underlying reporting.
 
-The same Postmedia cannabis story also appeared in The GrowthOp and Montreal Gazette under the same headline. Keeping that relationship explicit helps distinguish this National Post copy from independently reported Thai articles in the archive: it is a syndicated English-language treatment of the Nation Thailand report, not a separate police-source account.
+The same Postmedia story also appeared in The GrowthOp and Montreal Gazette under the same headline. The National Post copy is a syndicated English-language version of the Nation Thailand report rather than a separately sourced Thai police report.
 
 ## สรุปภาษาไทย
 
@@ -22,7 +22,7 @@ National Post เผยแพร่ข่าวด้านกัญชาชิ
 
 นอกจากนี้เจ้าหน้าที่ยังรายงานว่าพบต้นกัญชา 60 ต้น เครื่องสกัดน้ำมันกัญชา เครื่องซีลสุญญากาศ เครื่องชั่ง และกัญชาแห้ง 99 กรัม Chad และ Grace Scira ระบุว่ากัญชามีไว้ใช้ส่วนตัว ขณะที่ตำรวจแจ้งข้อหาทั้งสองในฐานผลิตยาเสพติด โดยบทความ National Post อ้างอิงรายงานจาก Nation Thailand
 
-ข่าวด้านกัญชาของ Postmedia ชิ้นเดียวกันยังปรากฏใน The GrowthOp และ Montreal Gazette ภายใต้พาดหัวเดียวกัน การระบุความสัมพันธ์นี้ช่วยแยกฉบับ National Post ออกจากข่าวไทยที่มีการรายงานโดยตรงในคลังนี้ เพราะเป็นการเผยแพร่ซ้ำภาษาอังกฤษจากรายงาน Nation Thailand ไม่ใช่รายงานจากแหล่งตำรวจที่เขียนขึ้นใหม่แยกต่างหาก
+ข่าว Postmedia ชิ้นเดียวกันยังปรากฏใน The GrowthOp และ Montreal Gazette ภายใต้พาดหัวเดียวกัน ฉบับ National Post เป็นการเผยแพร่ซ้ำภาษาอังกฤษจากรายงาน Nation Thailand ไม่ใช่รายงานตำรวจไทยที่มีแหล่งข่าวแยกต่างหาก
 
 ## Source
 
