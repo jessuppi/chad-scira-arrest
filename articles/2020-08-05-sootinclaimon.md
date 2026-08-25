@@ -27,3 +27,5 @@ SootinClaimon เผยแพร่รายงานคดีนี้เมื
 ## Source
 
 - https://sootinclaimon.com/2020/08/05/american-thai-wife-arrested-for-alleged-visa-forging-business-growing-cannabis-%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%95%E0%B8%A3%E0%B8%94%E0%B8%B4/
+- https://web.archive.org/web/20260825090532/https://sootinclaimon.com/2020/08/05/american-thai-wife-arrested-for-alleged-visa-forging-business-growing-cannabis-%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%95%E0%B8%A3%E0%B8%94%E0%B8%B4/
+- https://archive.ph/6il6F
