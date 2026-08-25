@@ -14,7 +14,7 @@ Montreal Gazette published the Postmedia cannabis-news story on August 5, 2020, 
 
 Officers also reported finding 60 cannabis plants, a cannabis-oil extractor, a vacuum sealer, a scale, and 99 grams of dried cannabis. Chad and Grace Scira said the cannabis was for personal use, while police charged them with manufacturing a narcotic substance. The article cited Nation Thailand for the underlying report.
 
-The Montreal Gazette copy also states that the couple had bought the home three years earlier and alleges that document forgery and cannabis cultivation had been taking place during that period. The same Postmedia story appeared in The GrowthOp and National Post, so the Gazette record is useful both as a surviving syndication copy and for preserving that three-year-house detail in the text archived here.
+The Montreal Gazette copy also states that the couple had bought the home three years earlier and alleges that document forgery and cannabis cultivation had been taking place during that period. The same Postmedia story appeared in The GrowthOp and National Post under the same headline, making the Gazette page another surviving syndicated copy of the Nation Thailand-based report.
 
 ## สรุปภาษาไทย
 
@@ -22,7 +22,7 @@ Montreal Gazette เผยแพร่ข่าวด้านกัญชาข
 
 นอกจากนี้เจ้าหน้าที่ยังรายงานว่าพบต้นกัญชา 60 ต้น เครื่องสกัดน้ำมันกัญชา เครื่องซีลสุญญากาศ เครื่องชั่ง และกัญชาแห้ง 99 กรัม Chad และ Grace Scira ระบุว่ากัญชามีไว้ใช้ส่วนตัว ขณะที่ตำรวจแจ้งข้อหาทั้งสองในฐานผลิตยาเสพติด โดยบทความอ้างอิงรายงานจาก Nation Thailand
 
-ฉบับ Montreal Gazette ยังระบุว่าทั้งคู่ซื้อบ้านหลังดังกล่าวเมื่อประมาณ 3 ปีก่อน และกล่าวหาว่ามีการปลอมเอกสารและปลูกกัญชาในช่วงเวลาที่อาศัยอยู่ที่นั่น ข่าว Postmedia ชิ้นเดียวกันยังปรากฏใน The GrowthOp และ National Post ดังนั้นระเบียน Gazette จึงมีประโยชน์ทั้งในฐานะสำเนาข่าวที่ยังคงอยู่และในฐานะแหล่งที่เก็บรายละเอียดเรื่องบ้านที่ซื้อไว้สามปีก่อนอย่างชัดเจน
+ฉบับ Montreal Gazette ยังระบุว่าทั้งคู่ซื้อบ้านหลังดังกล่าวเมื่อประมาณ 3 ปีก่อน และกล่าวหาว่ามีการปลอมเอกสารและปลูกกัญชาในช่วงเวลาที่อาศัยอยู่ที่นั่น ข่าว Postmedia ชิ้นเดียวกันยังปรากฏใน The GrowthOp และ National Post ภายใต้พาดหัวเดียวกัน ทำให้หน้า Gazette เป็นอีกสำเนาหนึ่งของรายงานที่อ้างอิง Nation Thailand ซึ่งยังคงเข้าถึงได้
 
 ## Source
 
