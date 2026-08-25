@@ -33,7 +33,7 @@ The records below summarize what each individual source reported. They are organ
 | August 5, 2020 | Thai Rath | Article | [View record](articles/2020-08-05-thairath.md) |
 | August 5, 2020 | The Thaiger | Facebook post | [View record](articles/2020-08-05-the-thaiger-facebook.md) |
 | August 5, 2020 | The Thaiger | Article | [View record](articles/2020-08-05-the-thaiger.md) |
-| August 5, 2020 | Kom Chad Luek / Dailymotion | Video | [View record](videos/2020-08-05-nation-thailand-dailymotion.md) |
+| August 5, 2020 | Kom Chad Luek / Dailymotion | Video | [View record](videos/2020-08-05-komchadluek-dailymotion.md) |
 | August 5, 2020 | POLICETV | Video | [View record](videos/2020-08-05-policetv.md) |
 | August 6, 2020 | Thailandblog | Article | [View record](articles/2020-08-06-thailandblog.md) |
 | August 6, 2020 | Toute la Thaïlande | Article | [View record](articles/2020-08-06-toutelathailande.md) |
