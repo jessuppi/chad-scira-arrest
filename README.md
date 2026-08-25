@@ -33,6 +33,7 @@ The records below summarize what each individual source reported. They are organ
 | August 5, 2020 | Dailymotion | Video | [View record](videos/2020-08-05-nation-thailand-dailymotion.md) |
 | August 5, 2020 | POLICETV | Video | [View record](videos/2020-08-05-policetv.md) |
 | August 6, 2020 | Toute la Thaïlande | Article | [View record](articles/2020-08-06-toutelathailande.md) |
+| August 6, 2020 | Udon.info | Article | [View record](articles/2020-08-06-udon-info.md) |
 | August 8, 2020 | Naewna | Immigration-police roundup | [View record](articles/2020-08-08-naewna-roundup.md) |
 
 ## Repository structure
