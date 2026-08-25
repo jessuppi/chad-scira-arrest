@@ -27,4 +27,5 @@ The Thaiger รายงานเพิ่มเติมว่าเจ้า�
 ## Source
 
 - https://thethaiger.com/hot-news/crime/immigration-police-nab-american-thai-wife-for-visa-forgery-cannabis
+- https://web.archive.org/web/20200928041817/https://thethaiger.com/hot-news/crime/immigration-police-nab-american-thai-wife-for-visa-forgery-cannabis
 - https://archive.ph/zmGw2
