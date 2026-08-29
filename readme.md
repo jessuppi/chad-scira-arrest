@@ -32,7 +32,7 @@ Status refers to the original source URL, not archived copies.
 | August 5, 2020 | Pattaya One | Article | English | Deleted; alleged bribery/pressure | [View record](articles/2020-08-05-pattaya-one.md) |
 | August 5, 2020 | PPTV | Article | Thai | Live | [View record](articles/2020-08-05-pptv.md) |
 | August 5, 2020 | SootinClaimon | Article / repost | Thai | Live | [View record](articles/2020-08-05-sootinclaimon.md) |
-| August 5, 2020 | Thai.gr | Forum post | English | Live | [View record](articles/2020-08-05-thai-gr.md) |
+| August 5, 2020 | Thai.gr | Forum post | English | Unavailable | [View record](articles/2020-08-05-thai-gr.md) |
 | August 5, 2020 | TeakDoor | Forum thread | English | Deleted; alleged bribery/pressure | [View record](articles/2020-08-05-teakdoor.md) |
 | August 5, 2020 | Thai Examiner | Article | English | Live | [View record](articles/2020-08-05-thai-examiner.md) |
 | August 5, 2020 | Thai Rath | Photo/news caption | Thai | Live | [View record](articles/2020-08-05-thairath-photo.md) |
