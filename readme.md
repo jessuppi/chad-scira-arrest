@@ -40,7 +40,6 @@ Status refers to the original source URL, not archived copies.
 | August 5, 2020 | The Thaiger | Facebook post | English | Live | [View record](articles/2020-08-05-the-thaiger-facebook.md) |
 | August 5, 2020 | The Thaiger | Article | English | Deleted; alleged bribery/pressure | [View record](articles/2020-08-05-the-thaiger.md) |
 | August 5, 2020 | Kom Chad Luek / Dailymotion | Video | Thai | Live | [View record](videos/2020-08-05-komchadluek-dailymotion.md) |
-| August 5, 2020 | Nation Thailand / Dailymotion | Video embed | Thai | Live | [View record](videos/2020-08-05-nation-thailand-dailymotion.md) |
 | August 5, 2020 | POLICETV | Video | Thai | Live | [View record](videos/2020-08-05-policetv.md) |
 | August 6, 2020 | Thailandblog | Article | Dutch | Live | [View record](articles/2020-08-06-thailandblog.md) |
 | August 6, 2020 | Toute la Thaïlande | Article | French | Deleted; circumstances unclear | [View record](articles/2020-08-06-toutelathailande.md) |
