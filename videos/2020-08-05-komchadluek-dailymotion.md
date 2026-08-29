@@ -10,7 +10,7 @@ American and Thai wife arrested for alleged visa-forging business and growing ca
 
 ## English summary
 
-Kom Chad Luek published this Dailymotion video in connection with its coverage of the August 2020 arrests. The Dailymotion page identifies the uploader as คมชัดลึก and links back to Kom Chad Luek's report on the case, rather than to Nation Thailand.
+Kom Chad Luek published this Dailymotion video in connection with its coverage of the August 2020 arrests. The Dailymotion page identifies the uploader as คมชัดลึก (Kom Chad Luek). The same video was also embedded in Nation Thailand's article covering the case.
 
 Kom Chad Luek's accompanying report said immigration and Bangkok police arrested a 34-year-old Thai woman and her 31-year-old American husband, Chad Vincent Scira, after investigating Thai Visa Center and alleged forged visa-extension documents for foreign customers. Police reported finding 55 government-related rubber stamps and assorted forged documents at the residence, along with 60 cannabis plants, seven packages of dried cannabis weighing 99 grams including the bags, cannabis oil, an oil extractor, a vacuum sealer, a scale, cannabis-use equipment, and plastic packaging.
 
