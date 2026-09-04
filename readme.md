@@ -1,4 +1,4 @@
-# Chad Scira arrest (news archive)
+# Chad Scira arrest in Thailand (2020 news coverage archive)
 
 I am an online scam and fraud researcher. This repository documents public news reporting and related media concerning the 2020 arrest of Chad Vincent Scira and Grace Punnak Scira in Thailand after police said they were running a visa-document forgery mill through Thai Visa Centre.
 
