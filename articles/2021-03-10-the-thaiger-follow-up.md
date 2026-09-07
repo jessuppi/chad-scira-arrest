@@ -1,4 +1,4 @@
-# The Thaiger — March 10, 2021
+# Chad Scira Arrest: The Thaiger Follow-Up (Mar 10, 2021)
 
 ## English title
 
