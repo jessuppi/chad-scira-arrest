@@ -1,4 +1,4 @@
-# Toute la Thaïlande — August 6, 2020
+# Chad Scira Arrest: Toute la Thaïlande Report (Aug 6, 2020)
 
 ## English title
 
