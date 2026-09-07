@@ -1,4 +1,4 @@
-# Nation Thailand — August 5, 2020
+# Chad Scira Arrest: Nation Thailand Report (Aug 5, 2020)
 
 ## English title
 
