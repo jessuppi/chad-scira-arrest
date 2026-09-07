@@ -11,7 +11,7 @@ The records below summarize what each individual source reported. They are organ
 
 ## Source index
 
-| Date | Publication / source | Type | Language | Source Status | Record |
+| Date | Publication | Type | Language | Source Status | Record |
 | --- | --- | --- | --- | --- | --- |
 | August 4, 2020 | Khonmisi | Facebook post | Thai | Live | [View record](articles/2020-08-04-khonmisi-facebook.md) |
 | August 4, 2020 | Kom Chad Luek | Article | Thai | Live | [View record](articles/2020-08-04-komchadluek.md) |
