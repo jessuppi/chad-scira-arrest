@@ -1,4 +1,4 @@
-# MGR Online — August 4, 2020
+# Chad Scira Arrest: MGR Online Report (Aug 4, 2020)
 
 ## English title
 
