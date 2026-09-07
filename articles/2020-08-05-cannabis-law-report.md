@@ -1,4 +1,4 @@
-# Cannabis Law Report — August 5, 2020
+# Chad Scira Arrest: Cannabis Law Report (Aug 5, 2020)
 
 ## English title
 
