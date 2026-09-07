@@ -1,4 +1,4 @@
-# Coconuts Bangkok — August 5, 2020
+# Chad Scira Arrest: Coconuts Bangkok Report (Aug 5, 2020)
 
 ## English title
 
