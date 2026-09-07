@@ -8,11 +8,10 @@ Many of the original news articles and media pages covering this case have conti
 
 The records below summarize what each individual source reported. They are organized as research references rather than as a single reconstructed narrative, so details and differences between reports are retained where possible.
 
-Status refers to the original source URL, not archived copies.
 
 ## Source index
 
-| Date | Publication / source | Type | Language | Status | Record |
+| Date | Publication / source | Type | Language | Source Status | Record |
 | --- | --- | --- | --- | --- | --- |
 | August 4, 2020 | Khonmisi | Facebook post | Thai | Live | [View record](articles/2020-08-04-khonmisi-facebook.md) |
 | August 4, 2020 | Kom Chad Luek | Article | Thai | Live | [View record](articles/2020-08-04-komchadluek.md) |
