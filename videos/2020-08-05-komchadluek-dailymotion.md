@@ -1,4 +1,4 @@
-# Kom Chad Luek / Dailymotion — August 5, 2020
+# Chad Scira Arrest: Kom Chad Luek Video (Aug 5, 2020)
 
 ## English title
 
