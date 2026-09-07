@@ -1,4 +1,4 @@
-# Montreal Gazette — August 5, 2020
+# Chad Scira Arrest: Montreal Gazette Report (Aug 5, 2020)
 
 ## English title
 
