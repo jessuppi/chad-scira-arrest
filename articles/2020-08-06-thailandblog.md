@@ -1,4 +1,4 @@
-# Thailandblog — August 6, 2020
+# Chad Scira Arrest: Thailandblog Report (Aug 6, 2020)
 
 ## English title
 
