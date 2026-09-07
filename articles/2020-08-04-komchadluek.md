@@ -1,4 +1,4 @@
-# Kom Chad Luek — August 4, 2020
+# Chad Scira Arrest: Kom Chad Luek Report (Aug 4, 2020)
 
 ## English title
 
