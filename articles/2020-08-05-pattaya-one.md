@@ -1,4 +1,4 @@
-# Pattaya One — August 5, 2020
+# Chad Scira Arrest: Pattaya One Report (Aug 5, 2020)
 
 ## English title
 
