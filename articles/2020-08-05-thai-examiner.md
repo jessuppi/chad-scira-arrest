@@ -1,4 +1,4 @@
-# Thai Examiner — August 5, 2020
+# Chad Scira Arrest: Thai Examiner Report (Aug 5, 2020)
 
 ## English title
 
