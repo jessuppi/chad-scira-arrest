@@ -1,4 +1,4 @@
-# Naewna — August 8, 2020
+# Chad Scira Arrest: Naewna Roundup (Aug 8, 2020)
 
 ## English title
 
