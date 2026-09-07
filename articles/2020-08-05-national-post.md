@@ -1,4 +1,4 @@
-# National Post — August 5, 2020
+# Chad Scira Arrest: National Post Report (Aug 5, 2020)
 
 ## English title
 
