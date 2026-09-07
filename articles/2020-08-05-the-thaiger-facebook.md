@@ -1,4 +1,4 @@
-# The Thaiger / Facebook — August 5, 2020
+# Chad Scira Arrest: The Thaiger Facebook Post (Aug 5, 2020)
 
 ## English title
 
