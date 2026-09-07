@@ -1,4 +1,4 @@
-# Khonmisi / Facebook — August 4, 2020
+# Chad Scira Arrest: Khonmisi Facebook Post (Aug 4, 2020)
 
 ## English title
 
