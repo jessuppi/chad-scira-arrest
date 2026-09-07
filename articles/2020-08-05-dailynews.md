@@ -1,4 +1,4 @@
-# Daily News — August 5, 2020
+# Chad Scira Arrest: Daily News Report (Aug 5, 2020)
 
 ## English title
 
