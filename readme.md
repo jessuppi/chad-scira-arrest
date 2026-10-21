@@ -40,6 +40,7 @@ The records below summarize what each individual source reported. They are organ
 | Aug 5, 2020 | The Thaiger | Article | English | Deleted; alleged bribery/pressure | [View record](articles/2020-08-05-the-thaiger.md) |
 | Aug 5, 2020 | Kom Chad Luek / Dailymotion | Video | Thai | Live | [View record](videos/2020-08-05-komchadluek-dailymotion.md) |
 | Aug 5, 2020 | POLICETV | Video | Thai | Live | [View record](videos/2020-08-05-policetv.md) |
+| Aug 6, 2020 | Siam Bird (Sohu / Tencent) | Article / reposts | Chinese | Live | [View record](articles/2020-08-06-siambird.md) |
 | Aug 6, 2020 | Thailandblog | Article | Dutch | Live | [View record](articles/2020-08-06-thailandblog.md) |
 | Aug 6, 2020 | Toute la Thaïlande | Article | French | Deleted; circumstances unclear | [View record](articles/2020-08-06-toutelathailande.md) |
 | Aug 6, 2020 | Udon.info | Article | English | Unavailable | [View record](articles/2020-08-06-udon-info.md) |
